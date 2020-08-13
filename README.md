@@ -12,4 +12,4 @@ iOS developer, live in HangZhou, have a cat.
 
 * ✉️ [chandler7k@gmail.com](chandler7k@gmail.com)
 
-* 📒 I write my personal thoughts on Programming & Tech in my [blog](https://devlinlin.github.com)
+* 📒 I write my personal thoughts on Programming & Tech in my [blog](https://devlinlin.github.io)
