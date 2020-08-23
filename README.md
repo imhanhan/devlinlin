@@ -8,7 +8,7 @@ iOS developer, live in HangZhou, have a cat.
 
 * 👨‍🎓 Bachelor of Engineering in Software Engineering.
 
-* 🧱 iOS Developer at XYMM.
+* 🧱 iOS Developer at Finger.Inc.
 
 * ✉️ [chandler7k@gmail.com](chandler7k@gmail.com)
 
