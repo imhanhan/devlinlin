@@ -6,7 +6,7 @@ iOS developer, live in HangZhou, have a cat.
 
 * ❤️ Interest in front-end, recently learn Flutter. 
 
-* 👨‍🎓 Bachelor of Engineering in Software Engineering.
+* 👨‍🎓 Bachelor of Software Engineering.
 
 * 🧱 iOS Developer at Finger.Inc.
 
