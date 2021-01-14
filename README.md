@@ -1,6 +1,6 @@
 ## Hello World 👋
 
-iOS developer, live in HangZhou, have a cat.
+iOS developer, live in HangZhou, have two cats.
 
 * 💻 Passionate about Swift, have to write Objective-C at work, SwiftUI rocks!
 
