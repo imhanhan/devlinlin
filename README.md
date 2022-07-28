@@ -1,14 +1,14 @@
 ## Hello World 👋
 
-iOS developer, live in HangZhou, have three cats🐱.
+iOS developer, base in Shanghai, currenly in Beijing, have three cats🐱.
 
-* 💻 Passionate about Swift, have to write Objective-C at work, SwiftUI rocks!
+* 💻 Passionate about Swift, SwiftUI rocks!
 
-* ❤️ Interesting in Apple ecosystem. 
+* ❤️ Interesting in Apple ecosystem and UI/UX designing. 
 
 * 👨‍🎓 Bachelor of Software Engineering.
 
-* 🧱 Full-time iOS Developer, rookie macOS developer after work.
+* 🧱 Full-time iOS Developer at a stealth startup, rookie macOS developer after work.
 
 * ✉️ [chandlerzou@gmail.com](chandlerzou@gmail.com)
 
