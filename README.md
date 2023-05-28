@@ -1,6 +1,6 @@
 ## Hello World 👋
 
-iOS developer, base in Shanghai, currenly in Beijing, have three cats🐱.
+iOS developer, base in Shanghai, have 2 cats🐱.
 
 * 💻 Passionate about Swift, SwiftUI rocks!
 
